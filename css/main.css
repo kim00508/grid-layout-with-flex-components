@@ -37,3 +37,7 @@ body {
     order: -1;
     text-align: center;
   }
+
+  .emoji p {
+    margin-bottom: auto;
+  }
